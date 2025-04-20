@@ -1,9 +1,9 @@
-
 project:
   type: website
+  output-dir: docs
 
 website:
-  title: "Gabriel Passos"
+  title: "Gabriel Caser dos Passos"
   navbar:
     left:
       - text: "Início"
@@ -14,7 +14,7 @@ website:
         href: projetos.qmd
       - text: "Blog"
         href: blog/index.qmd
-  page-footer: "© 2025 Gabriel Passos"
+  page-footer: "© 2025 Gabriel Caser"
   google-analytics: ""
 
 format:

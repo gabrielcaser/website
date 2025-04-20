@@ -2,14 +2,14 @@
   {
     "objectID": "website.html",
     "href": "website.html",
-    "title": "Gabriel Passos",
+    "title": "Gabriel Caser dos Passos",
     "section": "",
     "text": "Sou Gabriel, trabalho com avaliação de impacto, dados e tecnologia para políticas públicas. Este é meu espaço pessoal para compartilhar ideias, projetos e aprendizados.\nAcompanhe meus projetos, leia meus textos no blog, e entre em contato!\n\n\n\n🔔 Lembretes automatizados para o CRAS de Vitória\n📊 Análises de prefeitos com formação STEM"
   },
   {
     "objectID": "website.html#projetos-em-destaque",
     "href": "website.html#projetos-em-destaque",
-    "title": "Gabriel Passos",
+    "title": "Gabriel Caser dos Passos",
     "section": "",
     "text": "🔔 Lembretes automatizados para o CRAS de Vitória\n📊 Análises de prefeitos com formação STEM"
   },
@@ -33,19 +33,5 @@
     "title": "Blog",
     "section": "",
     "text": "Bem vindo\nBem-vindo ao meu blog. Aqui vou documentar o progresso do projeto de lembretes automatizados.\n\n\nComeçando o projeto MVP (2025-04-19)\nHoje fiz em 3 horas o MVP do projeto de lembretes automatizados. O MVP consiste em um bot que envia mensagens no WhatsApp para os usuários cadastrados. O bot é capaz de enviar mensagens personalizadas e programadas para cada usuário, com base nas informações fornecidas no cadastro. Escrevi o código em Python, utilizando a biblioteca pywhatkit para enviar mensagens no WhatsApp. Testei enviando para 3 amigos e para mim mesmo no Zap. A mensagem ficou com essa cara:\nf\"\"\"Olá, *{nome}*! 😊\n    Este é um lembrete do seu *atendimento no CRAS* \n    - 🗓️ Data: {data} (*Amanhã*)\n    - 📍 Endereço: {endereco_cras}\n    - 🤝 Qualquer dúvida, estamos à disposição.\"\"\"\nA estrutua da função que executa o envio de mensagens é bem simples:\nkit.sendwhatmsg(telefone, mensagem, hora_envio, minuto_envio, wait_time = 20, tab_close = True, close_time = 5)\nA ideia de bloco de 3 horas é baseada em um episódio do Podcast do Tim Ferris, que menciona que você deve focar em fazer uma tarefa importante por dia, reservando no mínimo 2h, INIMTERRUPTAS, para isso. Essa tarefa tem que cumprir pelo menos um desses dois itens: (i) te deixar com uma sensação de dever cumprido pelo resto do dia; (ii) tornar as demais tarefas mais fáceis ou irrelavantes. É impressionante como minha produtividade mudou após eu definir esses espaços de 2h (para tarefas que já tenho uma ideia do que fazer) ou 3h (para tarefas que não tenho ideia do que fazer). O resultado é que consigo fazer mais em menos tempo, e ainda tenho tempo livre.\nTambém comecei a ler o Lean Startup e acho que vai me ajudar nesse processo."
-  },
-  {
-    "objectID": "blog/index.html#post-mais-recente",
-    "href": "blog/index.html#post-mais-recente",
-    "title": "Blog",
-    "section": "",
-    "text": "Hoje fiz em 3 horas o MVP do projeto de lembretes automatizados. O MVP consiste em um bot que envia mensagens no WhatsApp para os usuários cadastrados. O bot é capaz de enviar mensagens personalizadas e programadas para cada usuário, com base nas informações fornecidas no cadastro. Escrevi o código em Python, utilizando a biblioteca pywhatkit para enviar mensagens no WhatsApp. Testei enviando para 3 amigos e para mim mesmo no Zap. A mensagem ficou com essa cara:\nf\"\"\"Olá, *{nome}*! 😊\n    Este é um lembrete do seu *atendimento no CRAS* \n    - 🗓️ Data: {data} (*Amanhã*)\n    - 📍 Endereço: {endereco_cras}\n    - 🤝 Qualquer dúvida, estamos à disposição.\"\"\"\nA ideia de bloco de 3 horas é baseada em um episódio do Podcast do Tim Ferris, que menciona que você deve focar em fazer uma tarefa importante por dia, reservando no mínimo 2h, INIMTERRUPTAS, para isso. Essa tarefa tem que cumprir pelo menos um desses dois itens: (i) te deixar com uma sensação de dever cumprido pelo resto do dia; (ii) tornar as demais tarefas mais fáceis ou irrelavantes.\nTambém comecei a ler o Lean Startup e acho que vai me ajudar nesse processo."
-  },
-  {
-    "objectID": "blog/index.html#começando-o-projeto-mvp-2025-04-19",
-    "href": "blog/index.html#começando-o-projeto-mvp-2025-04-19",
-    "title": "Blog",
-    "section": "",
-    "text": "Hoje fiz em 3 horas o MVP do projeto de lembretes automatizados. O MVP consiste em um bot que envia mensagens no WhatsApp para os usuários cadastrados. O bot é capaz de enviar mensagens personalizadas e programadas para cada usuário, com base nas informações fornecidas no cadastro. Escrevi o código em Python, utilizando a biblioteca pywhatkit para enviar mensagens no WhatsApp. Testei enviando para 3 amigos e para mim mesmo no Zap. A mensagem ficou com essa cara:\nf\"\"\"Olá, *{nome}*! 😊\n    Este é um lembrete do seu *atendimento no CRAS* \n    - 🗓️ Data: {data} (*Amanhã*)\n    - 📍 Endereço: {endereco_cras}\n    - 🤝 Qualquer dúvida, estamos à disposição.\"\"\"\nA ideia de bloco de 3 horas é baseada em um episódio do Podcast do Tim Ferris, que menciona que você deve focar em fazer uma tarefa importante por dia, reservando no mínimo 2h, INIMTERRUPTAS, para isso. Essa tarefa tem que cumprir pelo menos um desses dois itens: (i) te deixar com uma sensação de dever cumprido pelo resto do dia; (ii) tornar as demais tarefas mais fáceis ou irrelavantes.\nTambém comecei a ler o Lean Startup e acho que vai me ajudar nesse processo. :::"
   }
 ]
