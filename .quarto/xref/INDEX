@@ -1,0 +1,14 @@
+{
+  "website.qmd": {
+    "website.html": "8e899488"
+  },
+  "about.qmd": {
+    "about.html": "03f90c6f"
+  },
+  "blog/index.qmd": {
+    "index.html": "37af6f04"
+  },
+  "projetos.qmd": {
+    "projetos.html": "642807e8"
+  }
+}
