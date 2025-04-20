@@ -1,0 +1,10 @@
+
+---
+title: "Projetos"
+format: html
+---
+
+# Projetos
+
+- [x] MVP lembretes automatizados (CRAS Vitória)
+- [ ] Sistema de agendamento integrado

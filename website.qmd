@@ -1,0 +1,15 @@
+---
+title: "Gabriel Caser dos Passos"
+format: html
+---
+
+# Olá! 👋
+
+Sou Gabriel, trabalho com avaliação de impacto, dados e tecnologia para políticas públicas. Este é meu espaço pessoal para compartilhar ideias, projetos e aprendizados.
+
+Acompanhe meus projetos, leia meus textos no blog, e entre em contato!
+
+## 🌟 Projetos em Destaque
+
+-   🔔 [Lembretes automatizados para o CRAS de Vitória](projetos.qmd)
+-   📊 Análises de prefeitos com formação STEM

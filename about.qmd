@@ -1,0 +1,9 @@
+
+---
+title: "Sobre"
+format: html
+---
+
+# Sobre mim
+
+Sou Gabriel Passos, cientista de dados com foco em avaliação de impacto. Atualmente trabalho no Banco Mundial e estou iniciando um projeto sobre lembretes automatizados para agendamentos públicos.
