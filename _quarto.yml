@@ -9,8 +9,7 @@ project:
     browser: true
     port: 4200
     watch-inputs: true
-  # Corrige os caminhos no GitHub Pages
-  base-url: /website/
+  #base-url: /website/
 
 website:
   title: "Gabriel Passos"
@@ -28,5 +27,5 @@ website:
 
 format:
   html:
-    theme: cosmo
+    theme: darkly
     toc: true

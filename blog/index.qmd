@@ -8,6 +8,10 @@ format: html
 
 Bem-vindo ao meu blog. Aqui vou documentar o progresso do projeto de lembretes automatizados.
 
+# Reunião com a Secretaria de Assistência Social (2025-04-23)
+Hoje tive uma reunião com a subsecretária de Vitória. Fiquei impressionado o quão entusiasmada ela estava com a ideia, inclusive sugerindo uma série de outras aplicaçÕes. Quando fui fazer a demonstração do código rodando, claro que ele não funcionou como deveria kkcry. Bem, pelo menos consegui explicar e o fiz funcionar de alguma forma. Ela se mostrou aberta a compartilhar os dados do CRAS após eu participar de mais uma reunião com uma outra pessoa da secretaria e assinar um termo de cooperação. Pensei que seria mais difícil, mas talvez consiga acessar os dados mesmo aqui dos EUA! Isso me faz inclusive repensar se devo realmente voltar a morar no ES como estava pretendendo. Bem, o mais legal foi ver como existem pessoas empreendedoras e abertas e dispostas a melhorar o serviço público dentro do Governo!
+Pelas minhas estimativas o meu bot terá que enviar em torno de 25 mensagens por dia, dando em torno de 500 por mês. Acho que o Whatsapp não vai me bloquear, mas não tenho certeza.
+
 # Começando o projeto MVP (2025-04-19)
 
 Hoje fiz em 3 horas o MVP do projeto de lembretes automatizados. O MVP consiste em um bot que envia mensagens no WhatsApp para os usuários cadastrados. O bot é capaz de enviar mensagens personalizadas e programadas para cada usuário, com base nas informações fornecidas no cadastro. Escrevi o código em Python, utilizando a biblioteca pywhatkit para enviar mensagens no WhatsApp. Testei enviando para 3 amigos e para mim mesmo no Zap. A mensagem ficou com essa cara:
